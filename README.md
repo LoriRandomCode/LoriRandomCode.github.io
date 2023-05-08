@@ -1,2 +1,2 @@
-# LoriRandomCode.github.io
+# lorirandomcode.github.io
 The website for LoriRandomCode
